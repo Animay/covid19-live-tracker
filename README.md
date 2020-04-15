@@ -2,9 +2,11 @@
 
 A real-time COVID-19 statistics dashboard built with React. This project helps you visualize global and country-specific pandemic data with interactive charts and up-to-date statistics.
 
+_Note: This project was originally created in 2020 during the early stages of the COVID-19 pandemic._
+
 ## Overview
 
-This is a web application I built to track COVID-19 statistics in real-time. It shows you global numbers and lets you drill down into specific countries to see how the pandemic has evolved. The dashboard pulls live data and displays it in an easy-to-understand format with charts and cards.
+This is a web application I built to track COVID-19 statistics in rea-time. It shows you global numbers and lets you drill down into specific countries to see how the pandemic has evolved. The dashboard pulls live data and displays it in an easy-to-understand format with charts and cards
 
 What you can do with it:
 - View global statistics including total cases, recoveries, deaths, and active cases
